@@ -14,7 +14,7 @@ This is a beginner Python project for analyzing DNA sequences.
 1. Install Python
 2. Run the file
 
-python dna_analyzer.py
+dna_analyzer.py
 
 ## Author
 
